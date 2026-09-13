@@ -354,7 +354,8 @@ st.markdown("""
 # 3. MODELS + AGENTS
 # ============================================
 AVAILABLE_MODELS = {
-    "Llama 3.3 70B": "llama-3.3-70b-versatile",
+    "Llama 3 70B": "llama3-70b-8192",
+    "Llama 3 8B (Fast)": "llama3-8b-8192",
     "DeepSeek R1": "deepseek-r1-distill-llama-70b",
     "Llama 3.1 8B (Fast)": "llama-3.1-8b-instant",
     "Mixtral 8x7B": "mixtral-8x7b-32768"
